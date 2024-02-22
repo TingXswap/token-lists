@@ -1,0 +1,22 @@
+{
+  "name": "Tingswap default",
+  "logoURI": "https://raw.githubusercontent.com/tingxswap/token-lists/main/logos/0x9F6376A40a0cB84B85cB2de02E299FbeC507BC8A/logo.png",
+  "keywords": ["hela", "hlusd", "hela chain", "defi"],
+  "version": {
+    "major": 226,
+    "minor": 0,
+    "patch": 1
+  },
+  "tokens": [
+    {
+      "chainId": 666888,
+      "address": "0x9F6376A40a0cB84B85cB2de02E299FbeC507BC8A",
+      "decimals": 18,
+      "name": "Wrapped HLUSD",
+      "symbol": "WHLUSD",
+      "tags": ["Top"],
+      "logoURI": "https://raw.githubusercontent.com/tingxswap/token-lists/main/logos/0x9F6376A40a0cB84B85cB2de02E299FbeC507BC8A/logo.png"
+    }
+  ],
+  "timestamp": "2024-02-22T00:00:00+00:00"
+}

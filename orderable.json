@@ -1,0 +1,15 @@
+{
+  "name": "Trader Joe Limit Orders",
+  "logoURI": "https://raw.githubusercontent.com/tingxswap/token-lists/main/logos/0x9F6376A40a0cB84B85cB2de02E299FbeC507BC8A/logo.png",
+  "keywords": [
+    "hela",
+    "tingswap"
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "pairs": [
+  ]
+}
